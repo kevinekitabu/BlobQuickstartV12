@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
-
+using System.Xml;
 namespace BlobQuickstartV12
 {
     class Program
@@ -28,7 +28,7 @@ namespace BlobQuickstartV12
         static IConfigurationRoot GetConfiguration()
             => new ConfigurationBuilder()
                 .SetBasePath(Directory.GetParent(AppContext.BaseDirectory).FullName)
-                .AddJsonFile("appsettings.json")
+                .AddJsonFile("/Users/kevinirungu/Desktop/Desktop/BlobQuickstartV12/appsettings.json")
                 .Build();
 
         static IEnumerable<FileInfo> GetFiles(string sourceFolder)
@@ -36,6 +36,7 @@ namespace BlobQuickstartV12
                 .GetFiles()
                 .Where(f => !f.Attributes.HasFlag(FileAttributes.Hidden));
         
+    }
         static void UploadFiles(
             IEnumerable<FileInfo> files,
             string connectionString,
