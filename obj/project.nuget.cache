@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ELL2fSEQIkiUNus117EtUPPdi/bnq/hydIoyj82X3E6+RZnxe3jRlCC0yvzJfwERfesQyKo19LjG3+uV/9Ym4w==",
+  "dgSpecHash": "KpOD/E6UnKNtqNqsppPXnv9GzE1JQLdSTwWwFaMC71ee2jqdfDb2kbBqYkKLOC6Xf2rKcGjMbjDAMDYZeXTMxQ==",
   "success": true,
   "projectFilePath": "/Users/kevinirungu/Desktop/Desktop/BlobQuickstartV12/BlobQuickstartV12.csproj",
   "expectedPackageFiles": [
@@ -8,12 +8,21 @@
     "/Users/kevinirungu/.nuget/packages/azure.storage.blobs/12.13.0/azure.storage.blobs.12.13.0.nupkg.sha512",
     "/Users/kevinirungu/.nuget/packages/azure.storage.common/12.12.0/azure.storage.common.12.12.0.nupkg.sha512",
     "/Users/kevinirungu/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/Users/kevinirungu/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
     "/Users/kevinirungu/.nuget/packages/system.io.hashing/6.0.0/system.io.hashing.6.0.0.nupkg.sha512",
     "/Users/kevinirungu/.nuget/packages/system.memory.data/1.0.2/system.memory.data.1.0.2.nupkg.sha512",
     "/Users/kevinirungu/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/kevinirungu/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
-    "/Users/kevinirungu/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/kevinirungu/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
     "/Users/kevinirungu/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
