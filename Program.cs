@@ -22,7 +22,7 @@ namespace BlobQuickstartV12
                 return;
             }
 
-            UploadFiles(files, config["AzureStorage:ConnectionString"], config["AzureStorage:Container"]);
+            // UploadFiles(files, config["AzureStorage:ConnectionString"], config["AzureStorage:Container"]);
         }
 
         static IConfigurationRoot GetConfiguration()
